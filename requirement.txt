@@ -1,2 +1,10 @@
 flask
 pymysql
+
+
+
+#Username:student
+#DBname:studentdb
+#passwd:password123
+
+#curl -X POST http://13.39.17.196:5000/add -H "Content-Type: application/json" -d '{"id":1,"name":"Ravi","grade":"A"}' to run
